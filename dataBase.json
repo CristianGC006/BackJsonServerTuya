@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Juan",
+            "user":"admin",
+            "password":"admin"
+        },
+        {
+            "id":2,
+            "name":"Pedro",
+            "user":"user",
+            "password":"user"
+        }
+    ],
+    "envios":[]
+}
